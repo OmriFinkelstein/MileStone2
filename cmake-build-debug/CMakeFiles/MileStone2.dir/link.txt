@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MileStone2.dir/main.cpp.o  -o MileStone2 
